@@ -6,7 +6,7 @@
 name: Micah
 
 # Short bio or description (displayed in the header)
-description: 自由人
+description: free man
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -17,11 +17,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:www.micah.site@qq.com
-  facebook:
-  flickr:
-  github: Micah123321
+  dribbble: www.micah.site@qq.com
+  email: www.micah.site@qq.com
+  facebook: www.micah.site@qq.com
+  flickr: www.micah.site@qq.com
+  github: Micah123321/micah.github.io
   instagram:
   linkedin:
   pinterest:
