@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+信息展示
 
-### More Information
+### 更多的信息
 
-A place to include any other types of information that you'd like to include about yourself.
+这是我的初试博客
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+[www.micah.site@qq.com](mailto:www.micah.site@qq.com)
